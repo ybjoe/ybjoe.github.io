@@ -36,19 +36,19 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 # Experiences
 author_work_experiences:
             - company_name: Chan Zuckerberg Initiative - Chan Zuckerberg Imaging Institue
-              company_logo: google.png
+              company_logo: czi.png
               company_url: https://google.com
               designation: Software Engineer
               description: 
               visibility: true
             - company_name: Linqia
-              company_logo: 
+              company_logo: linqia_logo.jpg
               company_url: https://linqia.com
               designation: Software Engineer - Data
               description: 
               visibility: true
             - company_name: SK Networks   
-              company_logo: 
+              company_logo: SK.jpg
               company_url: https://www.sknetworks.co.kr/en/
               designation: Data Scientist
               description: 
@@ -56,13 +56,13 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: 
+              - college_logo: asu.png
                 college_name: Arizona State University
                 college_url: https://www.asu.edu/
                 college_degree: Master of Science
                 description: Computer Science - AI and Robotics
                 visibility: true
-              - college_logo: 
+              - college_logo: UA.png
                 college_name: University of Arizona 
                 college_url: https://www.arizona.edu/
                 college_degree: Bachelor of Science 
