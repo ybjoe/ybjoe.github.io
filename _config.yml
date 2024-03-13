@@ -16,8 +16,8 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
+    # - text: Shop
+    #   url : /shop
     - text: Contact
       url : /contact
 
@@ -30,31 +30,43 @@ author_bio: Hi, my name is Yongbaek Cho
 author_email: "ybcho108&@gmail.com"
 author_location: United States
 author_website_url: 
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+typewrite-text: Software Engineer
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
+            - company_name: Chan Zuckerberg Initiative - Chan Zuckerberg Imaging Institue
               company_logo: google.png
               company_url: https://google.com
               designation: Software Engineer
-              description: Worked on various Google Products
+              description: 
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: Linqia
+              company_logo: 
+              company_url: https://linqia.com
+              designation: Software Engineer - Data
+              description: 
+              visibility: true
+            - company_name: SK Networks   
+              company_logo: 
+              company_url: https://www.sknetworks.co.kr/en/
+              designation: Data Scientist
+              description: 
               visibility: true
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: 
+                college_name: Arizona State University
+                college_url: https://www.asu.edu/
+                college_degree: Master of Science
+                description: Computer Science - AI and Robotics
+                visibility: true
+              - college_logo: 
+                college_name: University of Arizona 
+                college_url: https://www.arizona.edu/
+                college_degree: Bachelor of Science 
+                description: Computer and Information Science
                 visibility: true
 
 # Projects
@@ -71,16 +83,16 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
+twitter_username: 
 github_username:  ybjoe
-facebook_username: johndoe
+facebook_username: 
 linkedin_username: davidcho93
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+behance_username: 
+instagram_username: 
+medium_username: 
+telegram_username: 
+dribbble_username: 
+flickr_username: 
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
