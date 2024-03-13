@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to my website"
-summary: "Getting Started using devlopr-jekyll"
+summary: "Hello"
 author: Yongbaek Cho
 date: '2024-03-12 14:35:23 +0530'
 category: Blog
