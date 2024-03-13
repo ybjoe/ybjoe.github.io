@@ -37,8 +37,8 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 author_work_experiences:
             - company_name: Chan Zuckerberg Initiative - Chan Zuckerberg Imaging Institue
               company_logo: czi.png
-              company_url: https://google.com
-              designation: Software Engineer
+              company_url: https://chanzuckerberg.com/
+              designation: Software Engineer (Present)
               description: 
               visibility: true
             - company_name: Linqia
