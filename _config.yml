@@ -71,7 +71,7 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: 
+              - project_thumbnail: wotermark.png
                 project_title: attributable watermarking of speech generative model
                 project_description: Research Paper/Project - published at 2023 ICASSP
                 project_url: https://arxiv.org/abs/2202.08900
