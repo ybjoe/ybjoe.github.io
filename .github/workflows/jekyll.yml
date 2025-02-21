@@ -28,8 +28,8 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'           # Adjust Ruby version as needed
-          # bundler-cache: true           # Automatically runs `bundle install` and caches gems
-          # cache-version: 0              # Increment to refresh the cache if needed
+          bundler-cache: true           # Automatically runs `bundle install` and caches gems
+          cache-version: 0              # Increment to refresh the cache if needed
 
       - name: Disable Bundler frozen mode
         run: bundle config set frozen false
@@ -41,10 +41,10 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
-      - name: Build site with Jekyll
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-        env:
-          JEKYLL_ENV: production
+      # - name: Build site with Jekyll
+      #   run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+      #   env:
+      #     JEKYLL_ENV: production
 
       - name: Upload build artifact
         uses: actions/upload-pages-artifact@v3
