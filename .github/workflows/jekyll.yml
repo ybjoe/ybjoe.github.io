@@ -1,3 +1,4 @@
+
 name: Deploy Jekyll site to Pages
 
 on:
@@ -28,16 +29,13 @@ jobs:
         with:
           ruby-version: '3.1'           # Adjust Ruby version as needed
           bundler-cache: true           # Automatically runs `bundle install` and caches gems
-          cache-version: 2             # Increment to refresh the cache if needed
+          cache-version: 0              # Increment to refresh the cache if needed
 
       - name: Disable Bundler frozen mode
         run: bundle config set frozen false
 
       - name: Configure Bundler to install gems locally
         run: bundle config set --local path 'vendor/bundle'
-
-      - name: Clean Jekyll site
-        run: bundle exec jekyll clean
 
       - name: Setup GitHub Pages configuration
         id: pages
