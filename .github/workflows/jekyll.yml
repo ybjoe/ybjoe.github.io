@@ -36,9 +36,6 @@ jobs:
       - name: Configure Bundler to install gems locally
         run: bundle config set --local path 'vendor/bundle'
 
-      - name: Clean Jekyll site
-        run: bundle exec jekyll clean
-
       - name: Setup GitHub Pages configuration
         id: pages
         uses: actions/configure-pages@v5
