@@ -5,7 +5,6 @@ on:
     branches: [main]  # Change if your default branch is different
   workflow_dispatch:
 
-
 permissions:
   contents: read
   pages: write
@@ -30,6 +29,9 @@ jobs:
           ruby-version: '3.1'           # Adjust Ruby version as needed
           bundler-cache: true           # Automatically runs `bundle install` and caches gems
           cache-version: 0              # Increment to refresh the cache if needed
+
+      - name: Disable Bundler frozen mode
+        run: bundle config set frozen false
 
       - name: Configure Bundler to install gems locally
         run: bundle config set --local path 'vendor/bundle'
