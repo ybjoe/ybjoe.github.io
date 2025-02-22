@@ -50,10 +50,10 @@ author:
 menu:
   - title:             About
     url:               /introduce/
-  # - title:             Documentation
-  #   url:               /docs/
   - title:             Experience
     url:               /experience/
+  - title:             Contact
+    url:               /contact/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
