@@ -14,5 +14,5 @@ If you have any questions, opportunities, or just want to connect, feel free to 
 
 Alternatively, you can connect with me on:  
 - **GitHub:** [ybjoe](https://github.com/ybjoe)  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yb93/)
+- **LinkedIn:** [Yongbaek Cho](https://www.linkedin.com/in/yb93/)
 Looking forward to hearing from you!
