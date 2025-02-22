@@ -9,7 +9,7 @@ permalink: /experience/
 
 ## Work Experience
 
- **Chan Zuckerberg Initiative - Imaging Institute (Feb 2024 – Present) | Software Engineer | Redwood City, CA**  
+ **Chan Zuckerberg Initiative - Imaging Institute (Feb 2024 – Present) | Software Engineer | San Francisco Bay Area(Redwood City, CA)**  
 
 
  **Linqia (May 2022 – Nov 2023) | Software Engineer | San Francisco, CA**  
