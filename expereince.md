@@ -5,17 +5,19 @@ permalink: /experience/
 ---
 
 
-# Professional Experience
+## Professional Experience
 
-## Work Experience
+- **Chan Zuckerberg Initiative - Imaging Institute**  
+  - Software Engineer (Feb 2024 – Present)  
+  - San Francisco Bay Area (Redwood City, CA)  
 
-Chan Zuckerberg Initiative - Imaging Institute (Feb 2024 – Present) | Software Engineer | San Francisco Bay Area(Redwood City, CA)  
+- **Linqia**  
+  - Software Engineer (May 2022 – Nov 2023)  
+  - San Francisco, CA  
 
-
-Linqia (May 2022 – Nov 2023) | Software Engineer | San Francisco, CA**  
-
-
-SK Networks (Jul 2019 – Nov 2019) | Data Scientist | Seoul, South Korea**  
+- **SK Networks**  
+  - Data Scientist (Jul 2019 – Nov 2019)  
+  - Seoul, South Korea  
 
 
 ## Education
