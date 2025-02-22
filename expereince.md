@@ -30,7 +30,7 @@ permalink: /experience/
 
 ## Research Experience
 
-- **Active Perception Group (APG) @ Arizona State University (Jul 2020 – Jan 2022) | Researcher**  
+**Active Perception Group (APG) @ Arizona State University (Jul 2020 – Jan 2022) | Researcher**  
   - Conducted research in generative AI security, computer vision, and speech signal processing.  
   - Worked on embedding attributable watermarking on image and audio generative models to prevent malicious impersonation.  
   - Published work on model attribution in speech generative models (ICASSP 2022).  
